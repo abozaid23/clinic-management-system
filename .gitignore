@@ -1,0 +1,14 @@
+# Compiled output
+bin/
+*.class
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+
+# Local env
+.env
