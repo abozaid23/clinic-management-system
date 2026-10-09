@@ -66,7 +66,7 @@ The submitted version hardcoded the database password in `DatabaseHelper.java`. 
 
 ## Team
 
-Six-person team, CSCI 217, Spring 2026.
+Five-person team, CSCI 217, Spring 2026.
 
 - Yousef Nasser Abozaid
 - Yasmin Saad
