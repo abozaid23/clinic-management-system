@@ -2,7 +2,7 @@
 
 A desktop clinic management application — patient and doctor records, appointment booking with conflict detection, doctor schedules, and patient history. Java Swing front end over a PostgreSQL database.
 
-Built for **CSCI 217 — Advanced Programming**, Nile University, Spring 2026. Five-person team project.
+Built for **CSCI 217 — Advanced Programming**, Nile University, Spring 2026. Six-person team project.
 
 > Uploaded to GitHub in 2026. The team built this before any of us were using version control, so there's no meaningful commit history — this is the submitted project, published as-is apart from the credential fix noted below.
 
@@ -66,7 +66,7 @@ The submitted version hardcoded the database password in `DatabaseHelper.java`. 
 
 ## Team
 
-Five-person team, CSCI 217, Spring 2026.
+Six-person team, CSCI 217, Spring 2026.
 
 - Yousef Nasser Abozaid
 - Yasmin Saad
